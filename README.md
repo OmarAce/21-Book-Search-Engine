@@ -8,8 +8,8 @@ As a user, I want to be able to search for books by title, and be able to sign-u
 
 
 ![Search Engine Image Splash](Assets/21-mern-homework-demo-01.gif)
-![Search Engine Results 1](Assets/21-mern-homework-demo-01.gif)
-![Search Engine Results 2](Assets/21-mern-homework-demo-01.gif)
+![Search Engine Results 1](Assets/21-mern-homework-demo-02.gif)
+![Search Engine Results 2](Assets/21-mern-homework-demo-03.gif)
 
 
   ## Table of Contents 
