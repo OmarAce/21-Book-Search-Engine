@@ -28,7 +28,7 @@ Book Search Engine is an application that allows the user to be able to search f
 
 ## Deployment
 
-[Application is Deployed on Heroku](~~~)
+[Application is Deployed on Heroku](https://book-search-ace.herokuapp.com/)
 
 ### Built With
 
